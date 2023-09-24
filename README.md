@@ -43,7 +43,7 @@ This project was created with the primary goal of improving my Lua programming s
 
        Replace `"ENCRYPTED_MESSAGE"` with the text you want to decrypt and `"YOUR_KEY"` with the decryption key.
 
-3. **View the Results**
+3. **Results**
 
    - The script will output the encrypted or decrypted message to the console.
 
