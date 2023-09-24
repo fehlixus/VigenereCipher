@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Vigenère cipher is a classic method of encrypting and decrypting text using a keyword. It's a polyalphabetic substitution cipher where different letters are shifted by different amounts based on the corresponding letters in the keyword. If you'd like to learn more about the Vigenère cipher, feel free to visit [this Wikipedia page](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
+The Vigenère cipher is a classic method of encrypting and decrypting text using a keyword. It's a polyalphabetic substitution cipher where different letters are shifted by different amounts based on the corresponding letters in the keyword. If you'd like to learn more about the Vigenère cipher, feel free to visit [this Wikipedia page](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) or watch [this awesome video](https://www.youtube.com/watch?v=95w8UTOB_lc&t=24s).
 
 This Lua script provides a simple implementation of the Vigenère cipher, allowing you to encrypt and decrypt messages using a given key.
 
